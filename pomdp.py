@@ -1,6 +1,5 @@
 import numpy as np
 from copy import deepcopy
-from Baum_Welch_project import POMDP
 
 class Cheese:
     def __init__(self):
